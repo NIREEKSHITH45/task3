@@ -2,10 +2,9 @@
   {
     "Name": "CloudLabs Demo: Azure environment with Windows machine",
     "Language": "English",
-    "BaseURL":"https://github.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/blob/prod/Instructions/Labs/07-Implement%20the%20Azure%20IoT%20Hub.md",
     "Files": [
       {
-        "RawFilePath": "https://raw.githubusercontent.com/NIREEKSHITH45/task3/main/mdfile.json",
+        "RawFilePath": "https://github.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/blob/prod/Instructions/Labs/07-Implement%20the%20Azure%20IoT%20Hub.md",
         "Order": 1
       }, 
     ]
